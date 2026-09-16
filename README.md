@@ -5,7 +5,7 @@
 ## Лекции
 
 1. [Библиотека Pandas. Визуализация данных](lectures/lecture_1/lecture_1.ipynb)
-2. TBA
+2. [Преобразование данных в аккуратную (tidy) форму](lectures/lecture_2/lecture_2.ipynb)
 
 ## Лабораторные работы
 
