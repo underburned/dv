@@ -6,6 +6,7 @@
 
 1. [Библиотека Pandas. Визуализация данных](lectures/lecture_1/lecture_1.ipynb)
 2. [Преобразование данных в аккуратную (tidy) форму](lectures/lecture_2/lecture_2.ipynb)
+2. [Библиотека Altair](lectures/lecture_3/lecture_3.ipynb)
 
 ## Лабораторные работы
 
