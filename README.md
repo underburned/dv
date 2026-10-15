@@ -8,6 +8,7 @@
 2. [Преобразование данных в аккуратную (tidy) форму](lectures/lecture_2/lecture_2.ipynb)
 3. [Библиотека Altair](lectures/lecture_3/lecture_3.ipynb)
 4. [Библиотека Altair. Продвинутые возможности](lectures/lecture_4/lecture_4.ipynb)
+5. [Библиотека Plotly](lectures/lecture_5/lecture_5.ipynb)
 
 ## Лабораторные работы
 
