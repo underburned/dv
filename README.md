@@ -9,6 +9,7 @@
 3. [Библиотека Altair](lectures/lecture_3/lecture_3.ipynb)
 4. [Библиотека Altair. Продвинутые возможности](lectures/lecture_4/lecture_4.ipynb)
 5. [Библиотека Plotly](lectures/lecture_5/lecture_5.ipynb)
+6. [Задачи классификации. Метрики качества. Классификация kNN](lectures/lecture_6/lecture_6.ipynb)
 
 ## Лабораторные работы
 
@@ -67,6 +68,8 @@
 1. [Установка Python. Менеджеры пакетов. Виртуальное окружение. Настройка IDE](self-study/python_stuff.md)
 2. [Питон-ноутбук с примерами использования numpy](self-study/numpy_examples.ipynb)
 3. [Pandas. Базовые операции](self-study/pandas_api.md)
+4. [Дисбаланс классов](self-study/class_imbalance.md)
+5. [Важность признаков](self-study/feature_importance.md)
 
 ## Разное
 
