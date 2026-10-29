@@ -10,6 +10,7 @@
 4. [Библиотека Altair. Продвинутые возможности](lectures/lecture_4/lecture_4.ipynb)
 5. [Библиотека Plotly](lectures/lecture_5/lecture_5.ipynb)
 6. [Задачи классификации. Метрики качества. Классификация kNN](lectures/lecture_6/lecture_6.ipynb)
+7. [Деревья решений](lectures/lecture_7/lecture_7.ipynb)
 
 ## Лабораторные работы
 
