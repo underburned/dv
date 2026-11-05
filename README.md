@@ -11,6 +11,7 @@
 5. [Библиотека Plotly](lectures/lecture_5/lecture_5.ipynb)
 6. [Задачи классификации. Метрики качества. Классификация kNN](lectures/lecture_6/lecture_6.ipynb)
 7. [Деревья решений](lectures/lecture_7/lecture_7.ipynb)
+8. [Линейная регрессия](lectures/lecture_8/lecture_8.ipynb)
 
 ## Лабораторные работы
 
