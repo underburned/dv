@@ -12,6 +12,7 @@
 6. [Задачи классификации. Метрики качества. Классификация kNN](lectures/lecture_6/lecture_6.ipynb)
 7. [Деревья решений](lectures/lecture_7/lecture_7.ipynb)
 8. [Линейная регрессия](lectures/lecture_8/lecture_8.ipynb)
+8. [Градиентный бустинг](lectures/lecture_9/lecture_9.ipynb)
 
 ## Лабораторные работы
 
